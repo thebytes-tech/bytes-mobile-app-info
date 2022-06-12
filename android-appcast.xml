@@ -3,10 +3,10 @@
   <channel>
     <title>Bytes Mobile Application</title>
     <item>
-        <title>Version 2.0</title>
+        <title>Version 1.0.20</title>
         <description>Bytes Mobile Application</description>
         <pubDate>Sat, 11 June 2022 15:20:11 +0000</pubDate>
-        <enclosure url="https://play.google.com/store/apps/details?id=in.thebytes.app" sparkle:version="2.0" />
+        <enclosure url="https://play.google.com/store/apps/details?id=in.thebytes.app" sparkle:version="1.0.20" />
         <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
     </item>
   </channel>
